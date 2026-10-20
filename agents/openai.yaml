@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stop Crying"
+  short_description: "Reduce mottled backgrounds around text with protected ink"
+  default_prompt: "Use $stop-crying to reduce broad color mottling around text in this image while protecting lettering and inspecting gradient changes."
